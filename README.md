@@ -1,30 +1,12 @@
-# bhujang-multani
+# Navdeep-Singh
 
 
-ALL ABOUT BHUJANG MULTANI 
+ALL ABOUT Navdeep Singh
 
-Hi, I'm Bhujangbir Singh. I'm currently pursuing my undergraduate degree at GNDEC Ludhiana. Hailing from a small village in Kapurthala, I enjoy coding and reading books. I'm proud to be a district topper in the Maths Olympiad and have also played basketball at the district level.
-
-
-|Name|Class|Roll No|Achievements|
-|---|---|---|---|
-|Bhujangbir Singh | 12 th |13673424|School Topper in 10th and 12th |
+Hi, I'm Navdeep Singh. I'm currently pursuing my undergraduate degree at GNDEC Ludhiana. Hailing from a small village in Mansa, I enjoy reading books. 
 
 
-**Marksheet CBSE CLASS 12 Examination 2024**
 
-|Subject|Th|Pr|Total|Result|
-|---|---|---|---|---|
-|English|78|020|98|P|
-|Computer Science |68|030|96|P|
-|Physics|65|030|95|P|
-|Chemistry|65|030|95|P|
-|Mathematics|75|020|095|P|
-
-
-**Result** :- 481 Marks 
-
-**Overall grade**:- A
 
 
 
@@ -32,7 +14,7 @@ Hi, I'm Bhujangbir Singh. I'm currently pursuing my undergraduate degree at GNDE
 
 **My excel certificate**
 
-![Excel certificate ](certificate.png)
+![Excel certificate ](EXCEL CERTIFICATE.png)
 
 _I recently completed an Excel course, and it was a fantastic learning experience. The course covered everything from basic functions to advanced data analysis techniques, making it incredibly comprehensive. I now feel much more confident in my Excel skills and can apply them effectively in my projects. Highly recommend it to anyone looking to enhance their data management capabilities!_
 
@@ -71,4 +53,4 @@ The MAX function returns the highest number in a range. In cell B11, I typed =MA
 
 Leveraging these functions will help you perform calculations quickly and efficiently.
 
-FEEL FREE TO CONTACT ME--- bhujangbirsingh16@gmail.com
+
